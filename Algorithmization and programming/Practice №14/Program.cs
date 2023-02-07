@@ -1,4 +1,8 @@
-﻿using System;
+/* If you need my solution, please change the code a little, otherwise the practices will no longer be posted.
+
+Если потребуется мое решение, пожалуйста, поменяйте немного код, иначе практики больше не будут выкладываться */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
